@@ -52,6 +52,54 @@ Product Details - SecuraHome
 https://example.com/category/:slug
 Products - SecuraHome
 
+### Home (HE)
+https://example.com/he/
+Discover professional home security camera installation, smart home automation systems, and premium AV equipment — all from a direct importer you can trust. Shop SecuraHome today.
+
+### Solutions (HE)
+https://example.com/he/solutions
+Explore cutting-edge smart home automation systems, high-performance AV setups, and robust network infrastructure solutions engineered for installers and homeowners alike. Find your fit.
+
+### Projects (HE)
+https://example.com/he/projects
+Browse completed professional home security camera installations and smart home projects that showcase SecuraHome&#39;s technical expertise — proof that premium performance is always deliverable.
+
+### Contact (HE)
+https://example.com/he/contact
+Ready to upgrade your security or smart home setup? Connect with SecuraHome&#39;s technical specialists for tailored advice on network infrastructure, AV equipment, and automation systems now.
+
+### Products (HE)
+https://example.com/he/products
+Our Products - SecuraHome
+
+### Cart (HE)
+https://example.com/he/cart
+Your Cart
+
+### Checkout (HE)
+https://example.com/he/checkout
+Checkout
+
+### Login (HE)
+https://example.com/he/login
+Customer Login
+
+### Account (HE)
+https://example.com/he/account
+My Account
+
+### Order Success (HE)
+https://example.com/he/order-success
+Thank you for your order
+
+### Product Detail (HE)
+https://example.com/he/product/:slug
+Product Details - SecuraHome
+
+### Category (HE)
+https://example.com/he/category/:slug
+Products - SecuraHome
+
 ## Legal & Policy
 
 ### Privacy Policy
