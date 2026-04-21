@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover professional home security camera installation, smart home automation systems, and premium AV equipment — all from a direct importer you can trust. Shop SecuraHome today.
+
+### Solutions
+https://example.com/solutions
+Explore cutting-edge smart home automation systems, high-performance AV setups, and robust network infrastructure solutions engineered for installers and homeowners alike. Find your fit.
+
+### Projects
+https://example.com/projects
+Browse completed professional home security camera installations and smart home projects that showcase SecuraHome&#39;s technical expertise — proof that premium performance is always deliverable.
+
+### Contact
+https://example.com/contact
+Ready to upgrade your security or smart home setup? Connect with SecuraHome&#39;s technical specialists for tailored advice on network infrastructure, AV equipment, and automation systems now.
+
+### Products
+https://example.com/products
+Our Products - SecuraHome
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - SecuraHome
+
+### Category
+https://example.com/category/:slug
+Products - SecuraHome
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
