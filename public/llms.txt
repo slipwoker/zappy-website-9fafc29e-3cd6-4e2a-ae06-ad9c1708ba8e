@@ -68,10 +68,6 @@ Browse completed professional home security camera installations and smart home 
 https://example.com/he/contact
 Ready to upgrade your security or smart home setup? Connect with SecuraHome&#39;s technical specialists for tailored advice on network infrastructure, AV equipment, and automation systems now.
 
-### Products (HE)
-https://example.com/he/products
-Our Products - SecuraHome
-
 ### Cart (HE)
 https://example.com/he/cart
 Your Cart
@@ -95,10 +91,6 @@ Thank you for your order
 ### Product Detail (HE)
 https://example.com/he/product/:slug
 Product Details - SecuraHome
-
-### Category (HE)
-https://example.com/he/category/:slug
-Products - SecuraHome
 
 ## Legal & Policy
 
